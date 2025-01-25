@@ -22,4 +22,4 @@ I'm a Ph.D. in Robotics and AI and currently a Staff Engineer at General Motors,
 ## 🌱 Fun Fact:
 I thrive at the intersection of technical creativity and strategic thinking—turning abstract ideas into tangible, impactful solutions!
 
-Feel free to connect with me here or on [LinkedIn](https://linkedin.com/in/your-link) to collaborate or chat about all things AI, robotics, or innovation!
+Feel free to connect with me here or on [LinkedIn](https://www.linkedin.com/in/mansoor-alghooneh-ph-d-4955b478/) to collaborate or chat about all things AI, robotics, or innovation!
