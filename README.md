@@ -28,7 +28,9 @@ I'm a Ph.D. in Robotics and AI and currently a Staff Engineer at General Motors,
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<br />
+<br/>
+<br/>
+
 ## 📌 Current Focus:
 - Building scalable, full-stack AI-powered systems.
 - Exploring innovative applications of robotics, AI, and full stack in software-defined vehicle, manufacturing and mobility.
